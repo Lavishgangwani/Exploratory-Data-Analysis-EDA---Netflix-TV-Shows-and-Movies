@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about data science and currently on
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Lavish Gangwani](https://www.linkedin.com/in/lavishgangwani/)
+- LinkedIn: [Lavish Gangwani](www.linkedin.com/in/lavish-gangwani)
 
 Looking forward to learning and growing together in the world of data science! 🚀
 
